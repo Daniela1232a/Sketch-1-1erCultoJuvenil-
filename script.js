@@ -105,6 +105,7 @@ createSoundButton('RISA', '7RISA.mp3', '9');
 createSoundButton('SORPRESA', '7.1SORPRESA.mp3', 'q');
 createSoundButton('BOING', '7.2BOING.mp3', 'w');
 createSoundButton('RELOJ', '8RELOJAPURADO.mp3', 'e');
+createSoundButton('BEBER', '8.1AGUA.mp3');
 createSoundButton('MASTICAR', '9MASTICARRAPIDO.mp3', 'r');
 createSoundButton('DOLOR', '10QUEJADOLOR.mp3', 't');
 createSoundButton('PUERTA', '11PUERTA.mp3', 'y');
