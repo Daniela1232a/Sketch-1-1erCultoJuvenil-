@@ -103,7 +103,7 @@ createSoundButton('TIKTOK 2', '5TIKTOK2.mp3', '7');
 createSoundButton('TIKTOK 3', '6TIKTOK3.mp3','8');
 createSoundButton('RISA', '7RISA.mp3', '9');
 createSoundButton('SORPRESA', '7.1SORPRESA.mp3', 'q');
-createSoundButton('BOING', '7.2BOING.MP3', 'w');
+createSoundButton('BOING', '7.2BOING.mp3', 'w');
 createSoundButton('RELOJ', '8RELOJAPURADO.mp3', 'e');
 createSoundButton('MASTICAR', '9MASTICARRAPIDO.mp3', 'r');
 createSoundButton('DOLOR', '10QUEJADOLOR.mp3', 't');
